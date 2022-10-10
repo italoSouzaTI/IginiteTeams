@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components/native';
 import { TouchableOpacity } from 'react-native';
 
 export type FilterProps = {
-    isActive?: boolean
+  isActive?: boolean
 }
 
 export const Container = styled(TouchableOpacity) < FilterProps>`
@@ -24,7 +24,7 @@ export const Container = styled(TouchableOpacity) < FilterProps>`
 export const Title = styled.Text`
     ${({ theme }) => css`
         font-family: ${theme.FONT_FAMILY.BOLD};
-        font-size: ${theme.FONT_SIZE.SM};
+        font-size: ${theme.FONT_SIZE.SM}px;
         color: ${theme.COLORS.WHITE};
         text-transform: uppercase;
     `}

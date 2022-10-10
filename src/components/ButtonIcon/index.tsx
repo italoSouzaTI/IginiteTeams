@@ -12,7 +12,9 @@ type Props = TouchableProps & {
 const ButtonIcon: React.FC<Props> = ({ icon,
     type = "PRIMARY", ...rest }) => {
     return (
-        <Style.Container>
+        <Style.Container
+            {...rest}
+        >
             <Style.Icon
                 name={icon}
                 type={type}
