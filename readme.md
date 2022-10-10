@@ -1,6 +1,8 @@
 # IGNITE TEAMS
 
-![Demo](https://user-images.githubusercontent.com/52186505/194792488-1f0f13a6-cbf9-466b-bc36-640d98026eab.mp4)
+## Demo
+https://user-images.githubusercontent.com/52186505/194792934-ee4fbece-46c2-40af-b93a-94f6cf4a6c49.mp4
+
 
 Projeto tem como objetivo aprender os conceitos do styled-componets como criação de theme, utilizar passagem de parâmetros dentro do css, utilizar sintaxe do css no react-native, navegação de páginas usando navigation (V6) e armazenamento local com Async-storage.
 
