@@ -21,7 +21,7 @@ $  npm run start
 ```
 
 ### Contato
-[💻 Linkedin](https://www.linkedin.com/in/%C3%ADtaloasouzati/)
+[💻 Linkedin](https://www.linkedin.com/in/italoasouzati/)
 
 📫 **italoasouzat.i@gmail.com**
 
